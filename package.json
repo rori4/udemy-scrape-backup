@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.45.0",
+    "google-auth-library": "^3.0.1",
+    "node-fetch": "^2.3.0",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "wd": "^1.11.1"
+  }
+}
